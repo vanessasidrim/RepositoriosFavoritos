@@ -1,0 +1,3 @@
+rootProject.name = 'RepositoriosFavoritos'
+
+include ':app'
